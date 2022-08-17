@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in Javascript, Node.js, Angular, React, Java, Python
-- 🌱 I’m currently learning Node.js, Angular
+- 👀 I’m interested in Javascript, Node.js, Angular, React, Express, Next.js.
+- 🌱 I’m currently learning Node.js, Angular, PostgreSQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
