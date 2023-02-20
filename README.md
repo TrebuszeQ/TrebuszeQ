@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in JavaScript, Node.js, Python, Java.
+- 👀 I’m interested in JavaScript, Node.Js, C#
 - 🌱 I’m currently learning JavaScript, Angular, ServiceNow.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
