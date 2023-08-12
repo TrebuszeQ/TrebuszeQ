@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in C#, .NET
-- 🌱 I’m currently learning .Net, C#.
+- 👀 I’m interested in Go, Python
+- 🌱 I’m currently learning Go, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
