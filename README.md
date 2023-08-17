@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in Go, Python
+- 👀 I’m interested in Go, Python, .Net
 - 🌱 I’m currently learning Go, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
