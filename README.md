@@ -12,6 +12,7 @@
     <th>🐍 Python</th>
     <th>📓 SQL</th>
     <th>💶 .NET</th>
+    <th>🌱 NodeJS</th>
     <th>🐹 Go</th>
     <th>🌋 Java</th>
     <th>🐳 Docker</th>
@@ -20,11 +21,12 @@
 <tbody>
   <tr>
     <td><strong>⏳h </strong></td>
-    <td>528</td>
+    <td>628</td>
     <td>248</td>
     <td>42.6</td>
     <td>66</td>
     <td>25</td>
+    <td>24</td>
     <td>15.9 </td>
     <td>14.5</td>
     <td>12.6</td>
