@@ -8,7 +8,7 @@
   <tr>
     <th>Subject</th>
     <th>🌐 Angular frontend</th>
-    <th>🐧 Linux (combined with bash)</th>
+    <th>🐧 Linux (w bash)</th>
     <th>🐍 Python</th>
     <th>📓 SQL</th>
     <th>💶 .NET</th>
