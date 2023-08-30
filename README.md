@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Go, Python, SQL, Angular
 - 🏆 My experience since I started counting (updated on first day of the month):
 - 🌐 Angular frontend
-  528⏳
-- 🐍 Python
+  528 hours
+- 🐍 Python </br>
   42.6⏳
 - 📓 SQL
   66⏳
