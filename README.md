@@ -2,21 +2,21 @@
 - 👀 I’m interested in Go, Python, .Net
 - 🌱 I’m currently learning Go, Python, SQL, Angular
 - 🏆 My experience since I started counting (updated on first day of the month):
-- 🌐 Angular frontend
+- 🌐 Angular frontend </br>
   528 hours
 - 🐍 Python </br>
   42.6⏳
-- 📓 SQL
+- 📓 SQL </br>
   66⏳
-- 💶 .NET
+- 💶 .NET </br>
   25⏳
-- 🐹 Go
+- 🐹 Go </br>
   12.9⏳ 
-- 🌋 Java
+- 🌋 Java </br>
   14.5⏳
-- 🐧 Linux (combined with bash)
+- 🐧 Linux (combined with bash) </br>
   248⏳
-- 🐳 Docker
+- 🐳 Docker </br>
   12.6⏳
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
