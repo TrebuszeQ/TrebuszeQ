@@ -38,7 +38,7 @@
     <th>Subject</th>
     <th>🐧 Linux (w bash)</th>
     <th>🌉 Networking</th>
-    <th>🌊 Azure</th>
+    <th>💧 Azure</th>
     <th>🌎 AWS</th>
     <th>🚓 Sec</th>
     <th>🐳 Docker</th>
