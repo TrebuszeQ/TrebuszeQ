@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Go, Python, C#
 - 🌱 I’m currently learning Go/C#, Python, SQL, Angular.
-- 🏆 My experience since I started counting (updated on first day of the month):
+- 🏆 My experience since I started counting:
 
 <h2>"Free" time dedicated tables</h2>
 <h3>Dev</h3>
