@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in Go, Python, .Net
-- 🌱 I’m currently learning Go, Python, SQL, Angular
+- 👀 I’m interested in Go, Python, C#
+- 🌱 I’m currently learning Go/C#, Python, SQL, Angular.
 - 🏆 My experience since I started counting (updated on first day of the month):
 
-01.08.23
+"Free" time dedicated table
 <table class="darkTable">
 <thead>
   <tr>
@@ -34,7 +34,8 @@
   </tr>
 </tbody>
 </table>
-  
+01.09.23
+
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
