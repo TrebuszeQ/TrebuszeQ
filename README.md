@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in Go, Python, C#
-- 🌱 I’m currently learning C#, SQL, Angular.
+- 👀 I’m interested in Go, Python, C#.
+- 🌱 I’m currently learning C#, TSQL, SQL Server, Angular, Docker.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>"No-job related" time spent</h2>
