@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Go, Python, C#
 - 🌱 I’m currently learning C#, SQL, Angular.
-- 🏆 My experience since I started counting:
+- 🏆 My experience since I started counting (doesn't include job related tasks):
 
-<h2>"Free" time dedicated tables</h2>
+<h2>"No-job related" time spent</h2>
 <h3>Dev</h3>
 <table class="darkTable">
 <thead>
