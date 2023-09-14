@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in Go, Python, C#. 
+- 👀 I’m interested in Go, Python, C#, also I must admit I'm not a big fan of JavaScript and ecosystem, however I like to fiddle with client side.
 - 🌱 I’m currently learning C#, SQL querying, Angular, Docker.
 - Currently I try to figure out which language to choose to deepen my backend knowledge. I'm considering following  languages JavaScript, Python, Go, C#.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
