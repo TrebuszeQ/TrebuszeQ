@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Go, Python, C#, Angular, React.
-- 🌱 I’m currently learning C#, Go, SQL querying, Angular, Docker.
-- Currently I try to figure out which language to choose to deepen my backend knowledge. I'm considering following  languages JavaScript, Python, Go, C#.
+- 🌱 I’m currently learning fullstack and deployment with C#, Go, SQL querying, Angular, Docker.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>"No-job related" time spent</h2>
