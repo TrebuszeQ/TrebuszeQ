@@ -23,8 +23,8 @@
 <tbody>
   <tr>
     <td><strong>⏳Hours</strong></td>
-    <td>442.6</td>
-    <td>228</td>
+    <td>542.6</td>
+    <td>128</td>
     <td>15.6</td>
     <td>85.4</td>
     <td>83</td>
