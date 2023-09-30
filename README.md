@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in Go, C#, Python, Angular, React.
-- 🌱 I’m currently learning fullstack and deployment with C#, SQL querying, Angular, Docker.
-- 📊 My subjective programming/scripting language likeness ranking: Go=C#, Python=Typescript, PHP=JavaScript, Java, PowerShell, Bash, C++, TPascal.
+- 👀 I’m interested in C#, Angular, React, Node, TypeScript, JavaScript.
+- 🌱 I’m currently learning fullstack development with C#, SQL querying, Angular, React, Algorithms, Docker, Linux.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>"No-job related" time spent</h2>
