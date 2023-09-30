@@ -10,25 +10,38 @@
 <thead>
   <tr>
     <th>Subject</th>
-    <th>🌐 Angular frontend</th>
-    <th>🐍 Python</th>
+    <th>🌱 JS, TS, Node</th>
+    <th>🌐 Angular</th>
+    <th>🌐 React</th>
     <th>📓 SQL</th>
     <th>💶 .NET</th>
-    <th>🌱 NodeJS</th>
+    <th>🐍 Python</th>
     <th>🐹 Go</th>
     <th>🌋 Java</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><strong>⏳h </strong></td>
-    <td>628</td>
-    <td>42.6</td>
-    <td>66</td>
-    <td>25</td>
-    <td>24</td>
+    <td><strong>⏳Hours</strong></td>
+    <td>442.6</td>
+    <td>228</td>
+    <td>15.6</td>
+    <td>85.4</td>
+    <td>83</td>
+    <td>46.1</td>
     <td>15.9 </td>
     <td>14.5</td>
+  </tr>
+  <tr>
+    <td><strong>📈M gains</strong></td>
+    <td>26.2</td>
+    <td>19.4</td>
+    <td>15.6</td>
+    <td>19.4</td>
+    <td>58</td>
+    <td>3.5</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </tbody>
 </table>
@@ -39,25 +52,33 @@
     <th>Subject</th>
     <th>🐧 Linux (w bash)</th>
     <th>🌉 Networking</th>
+    <th>🐳 Docker</th>
     <th>💧 Azure</th>
     <th>🌎 AWS</th>
     <th>🚓 Sec</th>
-    <th>🐳 Docker</th>
-  </tr>
 </thead>
 <tbody>
   <tr>
-    <td><strong>⏳h </strong></td>
-    <td>248</td>
+    <td><strong>⏳Hours </strong></td>
+    <td>262</td>
     <td>62</td>
+    <td>43.7</td>
     <td>25</td>
     <td>16</td>
     <td>14</td>
-    <td>12.6</td>
+  </tr>
+  <tr>
+    <td><strong>📈M gains </strong></td>
+    <td>14</td>
+    <td>-</td>
+    <td>31.1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </tbody>
 </table>
-01.09.23
+30.09.23
 
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
