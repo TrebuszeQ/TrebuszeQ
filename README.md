@@ -35,8 +35,8 @@
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
-    <td>36.3</td>
     <td>19.4</td>
+    <td>36.3</td>
     <td>3.1</td>
     <td>66.4</td>
     <td>4</td>
