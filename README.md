@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in C#, Angular, React, Node, TypeScript, JavaScript.
-- 🌱 I’m currently learning fullstack development with C#, SQL querying, Angular, React, Algorithms, Docker, Linux.
+- 🌱 I’m currently learning fullstack development with Angular, React, Js, C#, Algorithms, SQL querying.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>"No-job related" time spent</h2>
@@ -12,35 +12,38 @@
     <th>🌱 JS, TS, Node</th>
     <th>🌐 Angular</th>
     <th>🌐 React</th>
+    <th>💶 C#</th>
     <th>📓 SQL</th>
-    <th>💶 .NET</th>
     <th>🐍 Python</th>
     <th>🐹 Go</th>
     <th>🌋 Java</th>
+    <th>:snowflake: C++</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td><strong>⏳Hours</strong></td>
-    <td>542.6</td>
-    <td>128</td>
-    <td>15.6</td>
-    <td>85.4</td>
-    <td>83</td>
+    <td>559.3</td>
+    <td>164.3</td>
+    <td>18.7</td>
+    <td>153.6</td>
+    <td>89.4</td>
     <td>46.1</td>
     <td>15.9 </td>
     <td>14.5</td>
+    <td>6.7</td>
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
-    <td>26.2</td>
+    <td>36.3</td>
     <td>19.4</td>
-    <td>15.6</td>
-    <td>19.4</td>
-    <td>58</td>
-    <td>3.5</td>
+    <td>3.1</td>
+    <td>66.4</td>
+    <td>4</td>
     <td>-</td>
     <td>-</td>
+    <td>-</td>
+    <td>6.7</td>
   </tr>
 </tbody>
 </table>
@@ -68,9 +71,9 @@
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>14</td>
     <td>-</td>
-    <td>31.1</td>
+    <td>-</td>
+    <td>-</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
