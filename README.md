@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in C#, Angular, React, Node, TypeScript, JavaScript.
-- 🌱 I’m currently learning fullstack development with Angular, React, Js, C#, Algorithms, SQL querying.
+- 👀 I’m interested in Java, C#, Angular, React, Node, TypeScript, JavaScript.
+- 🌱 I’m currently learning fullstack development with Java, C#, Angular, React, Js, algorithms.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>"No-job related" time spent</h2>
