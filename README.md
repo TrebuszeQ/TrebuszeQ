@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in TypeScript, JavaScript, Node, Java, C#.
-- 🌱 I’m currently learning fullstack development Angular, React, Js, Node, also algorithms. 
+- 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
+- 🌱 I’m currently learning Py, bash, RedHat, AWS, algorithms. 
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>"No-job related" time spent</h2>
