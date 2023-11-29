@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m currently learning Py, bash, RedHat, AWS, algorithms, Terraform, Docker. 
+- 🌱 I’m learning Py, bash, RedHat, AWS, algorithms, Terraform, Docker. 
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>"No-job related" time spent</h2>
