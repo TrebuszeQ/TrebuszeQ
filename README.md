@@ -23,27 +23,27 @@
 <tbody>
   <tr>
     <td><strong>⏳Hours</strong></td>
-    <td>559.3</td>
-    <td>164.3</td>
-    <td>18.7</td>
-    <td>153.6</td>
+    <td>568.8</td> 
+    <td>175.3</td>
+    <td>25.7</td>
+    <td>157.25</td>
     <td>89.4</td>
-    <td>46.1</td>
+    <td>73.6</td>
     <td>15.9 </td>
-    <td>14.5</td>
-    <td>6.7</td>
+    <td>25.3</td>
+    <td>10.7</td>
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
-    <td>19.4</td>
-    <td>36.3</td>
-    <td>3.1</td>
-    <td>66.4</td>
+    <td>9.5</td>
+    <td>11</td>
+    <td>7</td>
+    <td>3.65</td>
     <td>4</td>
+    <td>27.5</td>
     <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>6.7</td>
+    <td>14.8</td>
+    <td>4</td>
   </tr>
 </tbody>
 </table>
@@ -62,20 +62,20 @@
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>262</td>
+    <td>284.3</td>
     <td>62</td>
     <td>43.7</td>
     <td>25</td>
-    <td>16</td>
+    <td>20.75</td>
     <td>14</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
+    <td>22.3</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>4.75</td>
     <td>-</td>
   </tr>
 </tbody>
