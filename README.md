@@ -3,7 +3,7 @@
 - 🌱 I’m learning Py, bash, RedHat, DSA, math and many university stuff lately. 
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
-<h2>"No-job related" time spent</h2>
+<h2>Learning activity (not involving in-work tasks)</h2>
 <h3>Dev</h3>
 <table class="darkTable">
 <thead>
