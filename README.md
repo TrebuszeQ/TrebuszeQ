@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m learning Py, bash, RedHat, AWS, algorithms, Terraform, Docker. 
+- 🌱 I’m learning Py, bash, RedHat, DSA, math and many university stuff lately. 
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>"No-job related" time spent</h2>
@@ -13,8 +13,8 @@
     <th>🌐 Angular</th>
     <th>🌐 React</th>
     <th>💶 C#</th>
-    <th>📓 SQL</th>
     <th>🐍 Python</th>
+    <th>📓 SQL</th>
     <th>🐹 Go</th>
     <th>🌋 Java</th>
     <th>:snowflake: C++</th>
@@ -27,23 +27,23 @@
     <td>175.3</td>
     <td>25.7</td>
     <td>157.25</td>
+    <td>105.6</td>
     <td>89.4</td>
-    <td>73.6</td>
     <td>15.9 </td>
     <td>25.3</td>
-    <td>10.7</td>
+    <td>21.2</td>
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
-    <td>9.5</td>
-    <td>11</td>
-    <td>7</td>
-    <td>3.65</td>
-    <td>4</td>
-    <td>27.5</td>
     <td>-</td>
-    <td>14.8</td>
-    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>32</td>
+    <td>-</td>
+    <td>0</td>
+    <td>0</td>
+    <td>10.5</td>
   </tr>
 </tbody>
 </table>
@@ -62,25 +62,25 @@
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>284.3</td>
+    <td>316.6</td>
     <td>62</td>
-    <td>43.7</td>
+    <td>49.95</td>
     <td>25</td>
-    <td>20.75</td>
+    <td>22.25</td>
     <td>14</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>22.3</td>
+    <td>32.3</td>
     <td>-</td>
+    <td>6.25</td>
     <td>-</td>
-    <td>-</td>
-    <td>4.75</td>
+    <td>1.5</td>
     <td>-</td>
   </tr>
 </tbody>
 </table>
-30.11.23
+02.01.23
 
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
