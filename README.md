@@ -41,9 +41,9 @@
     <td>-</td>
     <td>47</td>
     <td>-</td>
-    <td>0</td>
-    <td>0</td>
     <td>3.25</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </tbody>
 </table>
