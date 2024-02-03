@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m learning Py, bash, RedHat, DSA, math and many university stuff lately. 
+- 🌱 I’m learning DSA with PY, for RHCSA, AWS SysAdmin, January was 50% math.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>Learning activity (not involving in-work tasks)</h2>
@@ -15,9 +15,9 @@
     <th>💶 C#</th>
     <th>🐍 Python</th>
     <th>📓 SQL</th>
-    <th>🐹 Go</th>
     <th>🌋 Java</th>
     <th>:snowflake: C++</th>
+    <th>🐹 Go</th>
   </tr>
 </thead>
 <tbody>
@@ -27,11 +27,11 @@
     <td>175.3</td>
     <td>25.7</td>
     <td>157.25</td>
-    <td>105.6</td>
+    <td>152.6</td>
     <td>89.4</td>
-    <td>15.9 </td>
     <td>25.3</td>
-    <td>21.2</td>
+    <td>24.45</td>
+    <td>15.9 </td>
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
@@ -39,11 +39,11 @@
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>32</td>
+    <td>47</td>
     <td>-</td>
     <td>0</td>
     <td>0</td>
-    <td>10.5</td>
+    <td>3.25</td>
   </tr>
 </tbody>
 </table>
@@ -62,7 +62,7 @@
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>316.6</td>
+    <td>342.1</td>
     <td>62</td>
     <td>49.95</td>
     <td>25</td>
@@ -71,11 +71,11 @@
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>32.3</td>
+    <td>25.5</td>
     <td>-</td>
-    <td>6.25</td>
     <td>-</td>
-    <td>1.5</td>
+    <td>-</td>
+    <td>-</td>
     <td>-</td>
   </tr>
 </tbody>
