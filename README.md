@@ -12,8 +12,8 @@
     <th>🌱 JS, TS, Node</th>
     <th>🌐 Angular</th>
     <th>🌐 React</th>
-    <th>💶 C#</th>
     <th>🐍 Python</th>
+    <th>💶 C#</th>
     <th>📓 SQL</th>
     <th>🌋 Java</th>
     <th>:snowflake: C++</th>
@@ -26,8 +26,8 @@
     <td>568.8</td> 
     <td>175.3</td>
     <td>25.7</td>
-    <td>157.25</td>
     <td>163.6</td>
+    <td>157.25</td>
     <td>89.4</td>
     <td>41.3</td>
     <td>24.45</td>
