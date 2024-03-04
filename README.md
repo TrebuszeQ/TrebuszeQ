@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m learning DSA with PY/Java, Dev and DevOps, in January it was 50% math.
+- 🌱 I’m learning DSA with Py/Java, Spring, Linux, for the uni.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>Learning activity (not involving in-work tasks)</h2>
@@ -27,11 +27,11 @@
     <td>175.3</td>
     <td>25.7</td>
     <td>157.25</td>
-    <td>152.6</td>
+    <td>163.6</td>
     <td>89.4</td>
-    <td>25.3</td>
+    <td>41.3</td>
     <td>24.45</td>
-    <td>15.9 </td>
+    <td>15.9</td>
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
@@ -39,9 +39,9 @@
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>47</td>
+    <td>10.9</td>
     <td>-</td>
-    <td>3.25</td>
+    <td>16</td>
     <td>-</td>
     <td>-</td>
   </tr>
@@ -62,20 +62,20 @@
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>342.1</td>
+    <td>349.85</td>
     <td>62</td>
     <td>49.95</td>
     <td>25</td>
-    <td>22.25</td>
+    <td>24.25</td>
     <td>14</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>25.5</td>
+    <td>7.75</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
+    <td>2</td>
     <td>-</td>
   </tr>
 </tbody>
