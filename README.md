@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m learning DSA with Py/Java, Spring, Linux, for the uni.
+- 🌱 I’m learning DSA with Py/Java, Spring, Docker, for the uni.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>Learning activity (not involving in-work tasks)</h2>
@@ -38,8 +38,8 @@
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
     <td>10.9</td>
+    <td>-</td>
     <td>-</td>
     <td>16</td>
     <td>-</td>
