@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m learning DSA with Py/Java, Spring, Docker, for the uni.
+- 🌱 I’m learning DSA with Py/Java, Spring/Flask, Docker, K8s, Ansible, Terraform, Azure, CICD, Jenkins.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>Learning activity (not involving in-work tasks)</h2>
