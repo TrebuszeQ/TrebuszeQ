@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m learning DSA with Py/Java, Spring/Flask, Docker, K8s, Ansible, Terraform, Azure, CICD, Jenkins.
+- 🌱 I’m learning DSA with Py/Java, Spring/Flask, Docker, K3s, Ansible.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 <h2>Learning activity (not involving in-work tasks)</h2>
@@ -26,10 +26,10 @@
     <td>568.8</td> 
     <td>175.3</td>
     <td>25.7</td>
-    <td>163.6</td>
+    <td>203.1</td>
     <td>157.25</td>
     <td>89.4</td>
-    <td>41.3</td>
+    <td>54.5</td>
     <td>24.45</td>
     <td>15.9</td>
   </tr>
@@ -38,10 +38,10 @@
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>10.9</td>
+    <td>39.5</td>
     <td>-</td>
     <td>-</td>
-    <td>16</td>
+    <td>13.5</td>
     <td>-</td>
     <td>-</td>
   </tr>
@@ -52,9 +52,9 @@
 <thead>
   <tr>
     <th>Subject</th>
-    <th>🐧 Linux (w bash)</th>
+    <th>🐧 Linux, bash, Ansible</th>
     <th>🌉 Networking</th>
-    <th>🐳 Docker</th>
+    <th>🐳 Containers</th>
     <th>💧 Azure</th>
     <th>🌎 AWS</th>
     <th>🚓 Sec</th>
@@ -62,25 +62,25 @@
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>349.85</td>
+    <td>361.35</td>
     <td>62</td>
-    <td>49.95</td>
-    <td>25</td>
+    <td>55.25</td>
+    <td>26.25</td>
     <td>24.25</td>
     <td>14</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>7.75</td>
+    <td>11.5</td>
     <td>-</td>
+    <td>5.75</td>
     <td>-</td>
-    <td>-</td>
-    <td>2</td>
+    <td>1.25</td>
     <td>-</td>
   </tr>
 </tbody>
 </table>
-04.03.23
+02.04.23
 
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
