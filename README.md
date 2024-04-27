@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m learning DSA with Py/Java, Spring/Flask, Docker, K3s, Ansible.
+- 🌱 I’m learning DSA with Py, Terraform, Ansible, Docker, K3s.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
+
+Terraform repository is private.
 
 <h2>Learning activity (not involving in-work tasks)</h2>
 <h3>Dev</h3>
