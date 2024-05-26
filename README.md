@@ -28,11 +28,11 @@ Terraform repository is private.
     <td>568.8</td> 
     <td>175.3</td>
     <td>25.7</td>
-    <td>203.1</td>
+    <td>245.35</td>
     <td>157.25</td>
     <td>89.4</td>
-    <td>54.5</td>
-    <td>24.45</td>
+    <td>56</td>
+    <td>35.75</td>
     <td>15.9</td>
   </tr>
   <tr>
@@ -40,10 +40,10 @@ Terraform repository is private.
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>39.5</td>
+    <td>43.25</td>
     <td>-</td>
     <td>-</td>
-    <td>13.5</td>
+    <td>1.5</td>
     <td>-</td>
     <td>-</td>
   </tr>
@@ -54,35 +54,35 @@ Terraform repository is private.
 <thead>
   <tr>
     <th>Subject</th>
-    <th>🐧 Linux, bash, Ansible</th>
+    <th>🐧 Linux OPS/bash</th>
     <th>🌉 Networking</th>
     <th>🐳 Containers</th>
+    <th>🌎 TF/AWS</th>
     <th>💧 Azure</th>
-    <th>🌎 AWS</th>
     <th>🚓 Sec</th>
 </thead>
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>361.35</td>
+    <td>374.65</td>
     <td>62</td>
     <td>55.25</td>
+    <td>37.25</td>
     <td>26.25</td>
-    <td>24.25</td>
     <td>14</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>11.5</td>
+    <td>13.3</td>
     <td>-</td>
-    <td>5.75</td>
     <td>-</td>
-    <td>1.25</td>
+    <td>13</td>
+    <td>-</td>
     <td>-</td>
   </tr>
 </tbody>
 </table>
-02.04.23
+26.05.23
 
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
