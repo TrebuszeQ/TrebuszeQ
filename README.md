@@ -82,7 +82,7 @@ Terraform repository is private.
   </tr>
 </tbody>
 </table>
-26.05.23
+06.06.24
 
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
