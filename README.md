@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Java, C#, Go, Python, TypeScript, JavaScript, Node, C++.
 - 🌱 I’m learning Java/Spring, Terraform.
-- 🏆 My experience since I started counting (doesn't include job related tasks):
 
-Terraform repository is private.
+Terraform and some other repositories are private.
 
 <h2>Learning activity (personal)</h2>
 <h3>Dev</h3>
