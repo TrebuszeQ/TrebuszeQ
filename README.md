@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in Python, TypeScript, JavaScript, Node, Java, C#, Go, C++.
-- 🌱 I’m learning DSA with Py, Terraform, Ansible, Docker, K3s.
+- 👀 I’m interested in Java, C#, Go, Python, TypeScript, JavaScript, Node, C++.
+- 🌱 I’m learning Java/Spring, Terraform.
 - 🏆 My experience since I started counting (doesn't include job related tasks):
 
 Terraform repository is private.
 
-<h2>Learning activity (not involving in-work tasks)</h2>
+<h2>Learning activity (personal)</h2>
 <h3>Dev</h3>
 <table class="darkTable">
 <thead>
@@ -28,11 +28,11 @@ Terraform repository is private.
     <td>568.8</td> 
     <td>175.3</td>
     <td>25.7</td>
-    <td>245.35</td>
+    <td>293.15</td>
     <td>157.25</td>
     <td>89.4</td>
     <td>56</td>
-    <td>35.75</td>
+    <td>48.25</td>
     <td>15.9</td>
   </tr>
   <tr>
@@ -40,11 +40,11 @@ Terraform repository is private.
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>43.25</td>
+    <td>47.8</td>
     <td>-</td>
     <td>-</td>
-    <td>1.5</td>
     <td>-</td>
+    <td>12.5</td>
     <td>-</td>
   </tr>
 </tbody>
@@ -64,19 +64,19 @@ Terraform repository is private.
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>374.65</td>
+    <td>392.15</td>
     <td>62</td>
     <td>55.25</td>
-    <td>37.25</td>
+    <td>43.25</td>
     <td>26.25</td>
     <td>14</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>13.3</td>
+    <td>17.5</td>
     <td>-</td>
     <td>-</td>
-    <td>13</td>
+    <td>6</td>
     <td>-</td>
     <td>-</td>
   </tr>
