@@ -73,8 +73,8 @@ Terraform and some other repositories are private.
     <td>59.9</td>
     <td>43.25</td>
     <td>26.25</td>
-    <td>14</td>
     <td>0</td>
+    <td>14</td>
     <td>0</td>
   </tr>
   <tr>
