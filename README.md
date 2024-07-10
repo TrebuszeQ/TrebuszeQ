@@ -39,9 +39,9 @@ Terraform and some other repositories are private.
   <tr>
     <td><strong>📈M gains</strong></td>
     <td>-</td>
-    <td>-</td>
-    <td>-</td>
     <td>19.75</td>
+    <td>-</td>
+    <td>-</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
