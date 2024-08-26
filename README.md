@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Java, C#, Go, Python, TypeScript, JavaScript, Node, C++.
-- 🌱 I’m learning Java/Spring, Terraform.
+- 🌱 I’m learning Java/Spring, Py, K8s, Proxmox.
 
 Terraform and some other repositories are private.
 
@@ -14,23 +14,22 @@ Terraform and some other repositories are private.
     <th>🐍 Python</th>
     <th>🌐 Angular</th>
     <th>💶 C#</th>
+    <th>🌋 Java Spring</th>
     <th>📓 SQL</th>
-    <th>🌋 Java </th>
     <th>❄️ C++</th>
     <th>🌐 React</th>
     <th>🐹 Go</th>
-    <th>🫘 Spring</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td><strong>⏳Hours</strong></td>
     <td>568.8</td>
-    <td>312.9</td>
+    <td>313.9</td>
     <td>175.3</td>
     <td>157.25</td>
+    <td>98.30</td>
     <td>89.4</td>
-    <td>63.75</td>
     <td>40.55</td>
     <td>25.7</td>
     <td>15.9</td>
@@ -39,15 +38,14 @@ Terraform and some other repositories are private.
   <tr>
     <td><strong>📈M gains</strong></td>
     <td>-</td>
-    <td>19.75</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>26.8</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>7.75</td>
   </tr>
 </tbody>
 </table>
@@ -56,32 +54,26 @@ Terraform and some other repositories are private.
 <thead>
   <tr>
     <th>Subject</th>
-    <th>🐧 Linux, Config, Bash, Ansible</th>
+    <th>🐧 Linux, Config, Bash, Ansible, Containers</th>
     <th>🌉 Networking</th>
-    <th>🐳 Containers</th>
-    <th>🌎 TF/AWS</th>
-    <th>💧 Azure</th>
-    <th>🔮 TF/OCI</th>
+    <th>🌎 TF/Cloud</th>
     <th>🚓 Sec</th>
     <th>🎠 CI/CD</th>
 </thead>
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>420</td>
+    <td>488.9</td>
+    <td>69.50</td>
     <td>62</td>
-    <td>59.9</td>
-    <td>43.25</td>
-    <td>26.25</td>
-    <td>0</td>
     <td>14</td>
     <td>0</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>28</td>
+    <td>9</td>
+    <td>25.8</td>
     <td>-</td>
-    <td>4.65</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
@@ -90,7 +82,7 @@ Terraform and some other repositories are private.
   </tr>
 </tbody>
 </table>
-09.07.24
+26.08.24
 
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
