@@ -71,8 +71,8 @@ Terraform and some other repositories are private.
   <tr>
     <td><strong>📈M gains </strong></td>
     <td>9</td>
-    <td>25.8</td>
     <td>-</td>
+    <td>25.8</td>
     <td>-</td>
     <td>-</td>
   </tr>
