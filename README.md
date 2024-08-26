@@ -33,7 +33,6 @@ Terraform and some other repositories are private.
     <td>40.55</td>
     <td>25.7</td>
     <td>15.9</td>
-    <td>7.75</td>
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
@@ -54,7 +53,7 @@ Terraform and some other repositories are private.
 <thead>
   <tr>
     <th>Subject</th>
-    <th>🐧 Linux, Config, Bash, Ansible, Containers</th>
+    <th>🐧 Operations</th>
     <th>🌉 Networking</th>
     <th>🌎 TF/Cloud</th>
     <th>🚓 Sec</th>
@@ -76,14 +75,12 @@ Terraform and some other repositories are private.
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
   </tr>
 </tbody>
 </table>
 26.08.24
 
+*Linux operations contains Bash, Linux OS, K8s, K3s, Docker, Proxmox administration, DB administration, NOSQL administration, Ansible administration and other administrations.
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
