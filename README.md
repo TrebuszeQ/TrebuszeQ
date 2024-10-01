@@ -80,7 +80,7 @@ Terraform and some other repositories are private.
 </table>
 01.10.24
 
-*System Engineering contains Bash, Linux OS, K8s, K3s, Docker, Proxmox administration, DB administration, NOSQL administration, Ansible administration and other administrations.
+*System Engineering contains Bash, Linux OS, K8s, K3s, Docker, Proxmox, DB, NOSQL, Observability configuration, Ansible IAC etc.
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
