@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Java, C#, Go, Python, TypeScript, JavaScript, Node, C++.
-- 🌱 I’m learning Java/Spring, Py, K8s, Proxmox.
+- 🌱 I’m practicing Java/Spring, Py/FastAPI, K8s, Proxmox, Terraform, AWS, Bash, Debian.
 
 Terraform and some other repositories are private.
 
@@ -14,7 +14,7 @@ Terraform and some other repositories are private.
     <th>🐍 Python</th>
     <th>🌐 Angular</th>
     <th>💶 C#</th>
-    <th>🌋 Java Spring</th>
+    <th>🌋 Java/Spring</th>
     <th>📓 SQL</th>
     <th>❄️ C++</th>
     <th>🌐 React</th>
@@ -28,8 +28,8 @@ Terraform and some other repositories are private.
     <td>313.9</td>
     <td>175.3</td>
     <td>157.25</td>
-    <td>98.30</td>
-    <td>89.4</td>
+    <td>131.30</td>
+    <td>93.4</td>
     <td>40.55</td>
     <td>25.7</td>
     <td>15.9</td>
@@ -37,11 +37,11 @@ Terraform and some other repositories are private.
   <tr>
     <td><strong>📈M gains</strong></td>
     <td>-</td>
-    <td>1</td>
     <td>-</td>
     <td>-</td>
-    <td>26.8</td>
     <td>-</td>
+    <td>33</td>
+    <td>4</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
@@ -53,7 +53,7 @@ Terraform and some other repositories are private.
 <thead>
   <tr>
     <th>Subject</th>
-    <th>🐧 Operations</th>
+    <th>🐧 System Engineering</th>
     <th>🌉 Networking</th>
     <th>🌎 TF/Cloud</th>
     <th>🚓 Sec</th>
@@ -62,7 +62,7 @@ Terraform and some other repositories are private.
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>488.9</td>
+    <td>500.9</td>
     <td>69.50</td>
     <td>62</td>
     <td>14</td>
@@ -70,17 +70,17 @@ Terraform and some other repositories are private.
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>9</td>
+    <td>12</td>
     <td>-</td>
-    <td>25.8</td>
+    <td>-</td>
     <td>-</td>
     <td>-</td>
   </tr>
 </tbody>
 </table>
-26.08.24
+01.10.24
 
-*Linux operations contains Bash, Linux OS, K8s, K3s, Docker, Proxmox administration, DB administration, NOSQL administration, Ansible administration and other administrations.
+*System Engineering contains Bash, Linux OS, K8s, K3s, Docker, Proxmox administration, DB administration, NOSQL administration, Ansible administration and other administrations.
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
