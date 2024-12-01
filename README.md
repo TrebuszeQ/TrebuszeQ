@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, C#, Go, Python, TypeScript, JavaScript, Node, C++.
 - 🌱 I’m practicing Java/Spring, K8s, Proxmox, Terraform, AWS, Bash, Debian.
 
-Terraform and some other repositories are private.
+Most of repos are private. 
 
 <h2>Learning activity (personal)</h2>
 <h3>Dev</h3>
