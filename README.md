@@ -30,7 +30,7 @@ Terraform and some other repositories are private.
     <td>179.05</td>
     <td>183.55</td>
     <td>157.25</td>
-    <td>105.65/td>
+    <td>105.65<td>
     <td>40.55</td>
     <td>25.7</td>
     <td>24.65</td>
