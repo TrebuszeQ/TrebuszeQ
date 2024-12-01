@@ -60,8 +60,8 @@ Terraform and some other repositories are private.
     <th>🌎 TF/Cloud</th>
     <th>🌉 Networking</th>
     <th>🐋 Containers</th>
-    <th>🔒 Db</th>
     <th>🚓 Sec</th>
+    <th>🔒 Db</th>
 </thead>
 <tbody>
   <tr>
@@ -71,16 +71,16 @@ Terraform and some other repositories are private.
     <td>69.50</td>
     <td>35.5</td>
     <td>15</td>
-    <td>5.5</td>
+    <td>5</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
     <td>7.5</td>
-    <td>-</td>
     <td>18</td>
+    <td>-</td>
     <td>0.5</td>
-    <td>-</td>
-    <td>-</td>
+    <td>1</td>
+    <td>5</td>
   </tr>
 </tbody>
 </table>
