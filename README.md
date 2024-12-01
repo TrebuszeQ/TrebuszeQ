@@ -30,7 +30,7 @@ Terraform and some other repositories are private.
     <td>179.05</td>
     <td>183.55</td>
     <td>157.25</td>
-    <td>105.65<td>
+    <td>105.65</td>
     <td>40.55</td>
     <td>25.7</td>
     <td>24.65</td>
@@ -59,8 +59,8 @@ Terraform and some other repositories are private.
     <th>🐧 System Engineering</th>
     <th>🌎 TF/Cloud</th>
     <th>🌉 Networking</th>
-    <th>🔒 Db</th>
     <th>🐋 Containers</th>
+    <th>🔒 Db</th>
     <th>🚓 Sec</th>
 </thead>
 <tbody>
@@ -71,6 +71,7 @@ Terraform and some other repositories are private.
     <td>69.50</td>
     <td>35.5</td>
     <td>15</td>
+    <td>5.5</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
@@ -78,6 +79,7 @@ Terraform and some other repositories are private.
     <td>-</td>
     <td>18</td>
     <td>0.5</td>
+    <td>-</td>
     <td>-</td>
   </tr>
 </tbody>
