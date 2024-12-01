@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrebuszeQ
-- 👀 I’m interested in Java, C#, Go, Python, TypeScript, JavaScript, Node, C++.
+- 👀 I’m interested in Java, C#, Go, Python, Angular, AWS, K8s.
 - 🌱 I’m practicing Java/Spring, K8s, Ansible, AWS, Bash, Debian, Dbs, Db architecture, SQL, software architecture.
 
 Most of repos are private. 
