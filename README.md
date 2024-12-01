@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 - 👀 I’m interested in Java, C#, Go, Python, TypeScript, JavaScript, Node, C++.
-- 🌱 I’m practicing Java/Spring, Py/FastAPI, K8s, Proxmox, Terraform, AWS, Bash, Debian.
+- 🌱 I’m practicing Java/Spring, K8s, Proxmox, Terraform, AWS, Bash, Debian.
 
 Terraform and some other repositories are private.
 
@@ -13,38 +13,41 @@ Terraform and some other repositories are private.
     <th>🌱 JS, TS, Node</th>
     <th>🐍 Python</th>
     <th>🌐 Angular</th>
-    <th>💶 C#</th>
     <th>🌋 Java/Spring</th>
+    <th>💶 C#</th>
     <th>📓 SQL</th>
     <th>❄️ C++</th>
     <th>🌐 React</th>
     <th>🐹 Go</th>
+    <th>🏗️ Architecture</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td><strong>⏳Hours</strong></td>
     <td>568.8</td>
-    <td>313.9</td>
-    <td>175.3</td>
+    <td>318.9</td>
+    <td>179.05</td>
+    <td>183.55</td>
     <td>157.25</td>
-    <td>131.30</td>
-    <td>93.4</td>
+    <td>105.65/td>
     <td>40.55</td>
     <td>25.7</td>
-    <td>15.9</td>
+    <td>24.65</td>
+    <td>3.75</td>
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
     <td>-</td>
+    <td>4.5</td>
+    <td>-</td>
+    <td>7.75</td>
+    <td>-</td>
+    <td>6.25</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
-    <td>33</td>
-    <td>4</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>8.75</td>
+    <td>3.75</td>
   </tr>
 </tbody>
 </table>
@@ -54,33 +57,34 @@ Terraform and some other repositories are private.
   <tr>
     <th>Subject</th>
     <th>🐧 System Engineering</th>
-    <th>🌉 Networking</th>
     <th>🌎 TF/Cloud</th>
+    <th>🌉 Networking</th>
+    <th>🔒 Db</th>
+    <th>🐋 Containers</th>
     <th>🚓 Sec</th>
-    <th>🎠 CI/CD</th>
 </thead>
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>500.9</td>
+    <td>491.4</td>
+    <td>88.25</td>
     <td>69.50</td>
-    <td>62</td>
-    <td>14</td>
-    <td>0</td>
+    <td>35.5</td>
+    <td>15</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>12</td>
+    <td>7.5</td>
     <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>18</td>
+    <td>0.5</td>
     <td>-</td>
   </tr>
 </tbody>
 </table>
-01.10.24
+01.12.24
 
-*System Engineering contains Bash, Linux OS, K8s, K3s, Docker, Proxmox, DB, NOSQL, Observability configuration, Ansible IAC etc.
+*System Engineering contains Bash, Linux OS, Ansible, Proxmox, Observability configuration etc.
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
