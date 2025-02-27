@@ -20,34 +20,40 @@ Most of repos are private.
     <th>🌐 React</th>
     <th>🐹 Go</th>
     <th>🏗️ Architecture</th>
+    <th>:aerial_tramway: Data Engineering</th>
+    <th>:carousel_horse: CI/CD</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td><strong>⏳Hours</strong></td>
-    <td>568.8</td>
-    <td>318.9</td>
-    <td>179.05</td>
-    <td>183.55</td>
+    <td>568.80</td>
+    <td>323.05</td>
+    <td>205.85</td>
+    <td>186.80</td>
     <td>157.25</td>
-    <td>105.65</td>
+    <td>134.20</td>
     <td>40.55</td>
-    <td>25.7</td>
+    <td>25.70</td>
     <td>24.65</td>
-    <td>3.75</td>
+    <td>12.50</td>
+    <td>5.75</td>
+    <td>2.75</td>
   </tr>
   <tr>
     <td><strong>📈M gains</strong></td>
     <td>-</td>
-    <td>4.5</td>
-    <td>-</td>
-    <td>7.75</td>
-    <td>-</td>
-    <td>6.25</td>
+    <td>4.25</td>
+    <td>8.5</td>
     <td>-</td>
     <td>-</td>
-    <td>8.75</td>
-    <td>3.75</td>
+    <td>7</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>5.75</td>
+    <td>2.75</td>
   </tr>
 </tbody>
 </table>
@@ -66,24 +72,25 @@ Most of repos are private.
 <tbody>
   <tr>
     <td><strong>⏳Hours </strong></td>
-    <td>491.4</td>
-    <td>88.25</td>
-    <td>69.50</td>
-    <td>35.5</td>
-    <td>15</td>
-    <td>5</td>
+    <td>523.75</td>
+    <td>132.05</td>
+    <td>71.00</td>
+    <td>36.50</td>
+    <td>31.25</td>
+    <td>15.50</td>
   </tr>
   <tr>
     <td><strong>📈M gains </strong></td>
-    <td>7.5</td>
-    <td>18</td>
+    <td>16.30</td>
+    <td>17.75</td>
+    <td>1.5</td>
     <td>-</td>
-    <td>0.5</td>
-    <td>1</td>
-    <td>5</td>
+    <td>3.5</td>
+    <td>-</td>
   </tr>
 </tbody>
 </table>
+28.02.25
 01.12.24
 
 *System Engineering contains Bash, Linux OS, Ansible, Proxmox, Observability configuration etc.
