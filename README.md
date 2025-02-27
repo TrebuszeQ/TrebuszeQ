@@ -91,7 +91,7 @@
 28.02.25
 01.12.24
 
-*System Engineering contains Bash, Linux OS, Ansible, Proxmox, Observability configuration etc.
+*System Engineering contains Bash, Linux OS, Ansible, Proxmox, observability, configuration, hardware setup etc.
 <!---
 TrebuszeQ/TrebuszeQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
