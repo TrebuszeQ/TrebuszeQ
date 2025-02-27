@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 
-Most of repos are private. 
+41 of 73 repos are private. 
 
 <h2>Learning activity (personal)</h2>
 <h3>Dev</h3>
