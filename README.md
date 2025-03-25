@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrebuszeQ
 
-41 of 73 repos are private. 
+41 of 73 repos are private. I left public only selected repos. mostly not considered too important.
 
 <h2>Learning activity (personal)</h2>
 <h3>Dev</h3>
